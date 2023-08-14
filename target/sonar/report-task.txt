@@ -1,0 +1,6 @@
+projectKey=Spring3HibernateApp:Spring3HibernateApp
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=Spring3HibernateApp%3ASpring3HibernateApp
+ceTaskId=AYnz8G_x314oOg9LkeB-
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYnz8G_x314oOg9LkeB-
